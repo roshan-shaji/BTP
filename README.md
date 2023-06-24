@@ -14,8 +14,9 @@ Dyuti Mangal (190101035)
 
 ## Files
 
-1. ```custom_lenet.ipynb``` : notebook that uses all 5 dataflows in order to measure performance gains on LeNet model used on MNIST data.
-2. ```custom_alexnet.ipynb``` : notebook that uses all 5 dataflows in order to measure performance gains on AlexNet model used on CIFAR10 data.
-3. ```algos_master.ipynb``` : contains code for all 5 dataflows
-4. ```BTP_IITG.pdf``` : BTP report containing literature review, implementation details, results and conclusion.
+1. ```BTP_IITG.pdf``` : BTP report containing literature review, algorithm details, implementation, results and conclusion.
+2. ```algos_master.ipynb``` : contains code for all 5 dataflows
+3. ```custom_lenet.ipynb``` : notebook that uses all 5 dataflows in order to measure performance gains on LeNet model used on MNIST data.
+4. ```custom_alexnet.ipynb``` : notebook that uses all 5 dataflows in order to measure performance gains on AlexNet model used on CIFAR10 data.
+
 
