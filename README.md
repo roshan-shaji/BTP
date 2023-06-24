@@ -1,10 +1,19 @@
 # BTP
-This repository contains the code for the BTech Project on the topic "Computation Reduction for Convolutional Neural Network
-Acceleration" done in Partial Fulfillment of the Requirements for the Degree of Bachelor of Technology in IIT Guwahati.
 
-## Authors
-Dyuti Mangal 190101035
+This repository contains code written for the BTech Project done at IITG under the guidance of [Prof. Hemangee Kapoor](https://www.iitg.ac.in/hemangee/)
 
-S Roshan 190101079
+### Topic: 
+Computation Reduction for Convolutional Neural Network
+Acceleration
+
+### Students:
+S Roshan (190101079)
+
+Dyuti Mangal (190101035)
+
 
 ## Files
+
+1. dfdfd
+2. dfdfdfd
+3. ffdfdfd
